@@ -41,7 +41,7 @@ In the figures folder you can find images/txt of the results of the project. The
  * Figure 8 : Pie plot containing the emotions captured from the Tweets - positive,negative not contained.
 
 # Encountered Problems 
-I also have attached a .pdf which briefly explains each 'hiccup' I encountered throught the project.
+I also have attached a .pdf which briefly explains each 'hiccup' I encountered throughtout the project.
 
 # Runtime
 * Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
