@@ -44,6 +44,6 @@ In the figures folder you can find images/txt of the results of the project. The
 I also have attached a .pdf which briefly explains each 'hiccup' I encountered throught the project.
 
 # Runtime
-Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
-RAM : 8.00 GB (7.82 usable)
+* Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
+* RAM : 8.00 GB (7.82 usable)
 With the above specs it takes about 1hour to run 100k tweets for the analysis.
