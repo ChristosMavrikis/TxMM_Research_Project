@@ -45,5 +45,5 @@ I also have attached a .pdf which briefly explains each 'hiccup' I encountered t
 
 # Runtime
 * Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
-* RAM : 8.00 GB (7.82 usable)
+* RAM : 8.00 GB (7.82 usable) <br />
 With the above specs it takes about 1hour to run 100k tweets for the analysis.
