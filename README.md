@@ -8,11 +8,11 @@ Semester : 2020-2021
 
 # Figures <h1>
 In the figures folder you can find images/txt of the results of the project. The results are plotted using matplotlib and contain output about the sentiment, emotions , most common words and the topics. More specifically:
- * Bullet  Figure 1
- * Bullet  Figure 2
- * Bullet  Figure 3
- * Bullet  Figure 4
- * Bullet  Figure 5
- * Bullet  Figure 6
- * Bullet  Figure 7
- * Bullet  Figure 8
+ * Figure 1
+ * Figure 2
+ * Figure 3
+ * Figure 4
+ * Figure 5
+ * Figure 6
+ * Figure 7
+ * Figure 8
