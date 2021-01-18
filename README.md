@@ -1,3 +1,8 @@
+# Sentiment Analysis and Topic Modelling On COVID-19 Tweets
+This project's purpose is to perform sentiment analysis and topic modelling on COVID-19 tweets in order to determine the public's overall reaction to the newly presented pandemic. The project uses a dataset from Kaggle specifically : https://www.kaggle.com/gpreda/covid19-tweets and performs basic methods to get a legitimate output for each research question given in the paper. A future extension of this code and project could be implementing my own sentiment analysis function instead of using ready implemented functions, as I believe they are obeselte for sentiment analysis on pandemic related Tweets.
+
+The script was implemented on Pycharm Community and followed several steps from different tutorials as this is my first ever Text Mining project. To run the script just pip install all the dependcies listed in the 'Libraries Used' part of this file.
+
 
 # General Information about the project
 This is a repository for the Research Project for the Text and Multimedia Mining course. It contains the scripts used for the project and plots that could not be added to the final report. It also contains a .pdf with difficulties I encountered during the project. I have tried to record every step and phase of the project.
