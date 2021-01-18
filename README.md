@@ -4,7 +4,24 @@ This is a repository for the Research Project for the Text and Multimedia Mining
 
 Subject : Sentiment Analysis and Topic Modelling On COVID-19  Tweets  <br />
 Programming Language : Python 3.8  <br />
-Libraries Used:
+Libraries Used: The imported Python libraries for the project are listed below.
+* Pandas
+* NLTK
+* Warnings
+* PorterStemmer
+* Vader for sentiment analysis (Vader is preferred for social media sentiment analysis)
+* Textblob 
+* NRClex
+* Matplotlib
+* Re
+* Sklearn ~ Latent Dirichlet Allocation
+* PyLDAvis
+* Pickle
+* Os
+* Wordcloud
+* Numpy
+* Seaborn
+* Imported .py scripts imported by author : MyEmotions, MyTopNgrams, MyFunctions, MyLDA , MyWords , MyPiePlots
 Semester : 2020-2021
 
 # Figures
