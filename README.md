@@ -39,10 +39,15 @@ In the figures folder you can find images/txt of the results of the project. The
  * Figure 6 : Pie plot containing the fine-grain sentiment analysis of the Tweets.
  * Figure 7 : Bar plot containing the most common words in the topics.
  * Figure 8 : Pie plot containing the emotions captured from the Tweets - positive,negative not contained.
-
+ * Figure 9 : Pie plot containing the emotions captured form the list of positive Tweets.
+ * Figure 10: Pie plot containing the emotions captured from the list of negative Tweets.
+ * Figure 11: Pie plot containing the emotions captured from the list of neutral Tweets.
+ 
 # Encountered Problems 
 I also have attached a .pdf which briefly explains each 'hiccup' I encountered throughtout the project.
 
+# Timeline
+I have added a timeline which shows the brief steps take to implement the project.
 # Runtime
 * Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
 * RAM : 8.00 GB (7.82 usable) <br />
