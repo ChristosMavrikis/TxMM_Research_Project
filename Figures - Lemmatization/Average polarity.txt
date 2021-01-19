@@ -1,0 +1,4 @@
+Average polarity of all tweets 0.08203211000000267
+Average polarity of positive tweets 0.20472712071677024
+Average polarity of negative tweets 0.0
+Average polarity of neutral tweets 0.0

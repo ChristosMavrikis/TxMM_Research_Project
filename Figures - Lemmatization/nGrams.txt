@@ -1,0 +1,5 @@
+Top-10 most occurred bi-gram  [('new case', 2788), ('positive case', 986), ('case death', 837), ('confirmed case', 814), ('wear mask', 801), ('tested positive', 734), ('active case', 708), ('new death', 631), ('wearing mask', 620), ('test positive', 587)]
+
+Top-10 most occurred tri-gram  [('new case new', 442), ('report new case', 412), ('case new death', 408), ('single day spike', 403), ('help slow spread', 325), ('case amp death', 293), ('gmt update pandemic', 291), ('global pandemic news', 289), ('slow spread identify', 284), ('spread identify risk', 284)]
+
+Top-10 most occurred four-gram [('new case new death', 386), ('help slow spread identify', 284), ('slow spread identify risk', 283), ('spread identify risk case', 283), ('identify risk case sooner', 280), ('risk case sooner self', 277), ('case sooner self reporting', 276), ('sooner self reporting symptom', 273), ('self reporting symptom daily', 272), ('positive case amp death', 213)]

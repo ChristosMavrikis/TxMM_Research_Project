@@ -1,0 +1,4 @@
+Average subjectivity of all tweets 0.33624486004940846
+Average subjectivity of positive tweets 0.40141947519388543
+Average subjectivity of negative tweets 0.3568754616415548
+Average subjectivity of neutral tweets 0.23576204883608087

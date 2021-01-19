@@ -1,0 +1,4 @@
+Average sentence length of all tweets 11.29842
+Average sentence length of cleaned positive tweets 11.753425341286281
+Average sentence length of cleaned negative tweets 11.452698863636364
+Average sentence length of cleaned neutral  tweets 10.587831670391237
