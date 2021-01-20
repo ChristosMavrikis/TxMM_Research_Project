@@ -30,7 +30,7 @@ Libraries Used: The imported Python libraries for the project are listed below.
 Semester : 2020-2021
 
 # Figures
-In the figures folder you can find images/txt of the results of the project. The results are plotted using matplotlib and contain output about the sentiment, emotions , most common words and the topics. More specifically:
+In the Figures - Lemmatization folder you can find images/txt of the results of the project. The results are plotted using matplotlib and contain output about the sentiment, emotions , most common words, the topics, the n-grams, polarity and subjectivity of the Tweets. More specifically:
  * Figure 1 : Pie plot containing a general sentiment analysis of the Tweets.
  * Figure 2 : Wordcloud containing all the words from all the Tweets.
  * Figure 3 : Wordcloud containing all the words from the list of positive Tweets.
@@ -42,7 +42,30 @@ In the figures folder you can find images/txt of the results of the project. The
  * Figure 9 : Pie plot containing the emotions captured form the list of positive Tweets.
  * Figure 10: Pie plot containing the emotions captured from the list of negative Tweets.
  * Figure 11: Pie plot containing the emotions captured from the list of neutral Tweets.
- 
+ * Figure 12: Wordclould containing all the words from the list of Very positive Tweets (after fine-grain sentiment analysis)
+ * Figure 13: Wordclould containing all the words from the list of positive Tweets (after fine-grain sentiment analysis)
+ * Figure 14: Wordclould containing all the words from the list of negative Tweets (after fine-grain sentiment analysis)
+ * Figure 15: Wordclould containing all the words from the list of Very negative Tweets (after fine-grain sentiment analysis)
+ * Figure 16: Pie plot containing the emotions captured form the list of Very positive Tweets (after fine-grain sentiment analysis)
+ * Figure 17: Pie plot containing the emotions captured form the list of  positive Tweets (after fine-grain sentiment analysis)
+ * Figure 18: Pie plot containing the emotions captured form the list of negative Tweets (after fine-grain sentiment analysis)
+ * Figure 19: Pie plot containing the emotions captured form the list of Very negative Tweets (after fine-grain sentiment analysis)
+ * Average Polarity.txt : Display the polarity of list of all, positive,negative,neutral Tweets (no fine-grain)
+ * Average subjectivity.txt : Display the subjectivity of list of all , positive, negative, neutral Tweets (no fine-grain)
+ * Average sentence length.txt : Display the average lenght of positive, negative and neutral Tweets (no fine-grain)
+ * nGrams.txt : Display the most common bi-grams, tri-grams and four-grams in the Tweets.
+ * Sum of emotions.txt : Display the sum of each emotion - excluding negative-positive- for all Tweets.
+ (The plain Figure folder contains less results of the initial script which followed stemming instead of lemmatization)
+
+# pyLDAvis
+Contains images of the visualization of the runs for each number of fixed topics. HTML scripts will be added.
+
+# Dataset
+Contains the .csv file used for this project.
+
+# Scripts
+Containts the project's script used
+
 # Encountered Problems 
 I also have attached a .pdf which briefly explains each 'hiccup' I encountered throughtout the project.
 
@@ -51,4 +74,4 @@ I have added a timeline which shows the brief steps take to implement the projec
 # Runtime
 * Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
 * RAM : 8.00 GB (7.82 usable) <br />
-With the above specs it takes about 1hour to run 100k tweets for the analysis.
+With the above specs it takes about 1-2h to run 100k tweets for the analysis.
