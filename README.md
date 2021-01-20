@@ -72,6 +72,3 @@ I have added a timeline which shows the brief steps take to implement the projec
 * Processor : Intel (R) Core (TM) i5-8265U CPU @ 1.60GHz 1.80GHz
 * RAM : 8.00 GB (7.82 usable) <br />
 With the above specs it takes about 1-2h to run 100k tweets for the analysis.
-
-# Dataset
-The link for the dataset can be found here https://www.kaggle.com/gpreda/covid19-tweets
